@@ -1,0 +1,12 @@
+header.header {
+  text-align: center ;
+}
+
+header > h1 {
+  font-weight: var(--light-font) ;
+  font-size: 1.8rem ;
+}
+
+header > h1:last-child {
+  font-weight: var(--bold-font) ;
+}

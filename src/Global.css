@@ -18,3 +18,14 @@
   --bold-font: 600 ;
   --default-font-size: 15px ;
 }
+
+html {
+  font-size: 18px ;
+}
+
+
+@media screen and (max-width: 700px) {
+  html {
+    font-size: 16px ;
+  }
+}

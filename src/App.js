@@ -1,13 +1,12 @@
 import React from "react";
 import './Global.css' ;
 import './styles/App.css' ;
-
+import Header from './Components/Header' ;
 
 const App = () => {
   return (
     <div className='app'>
-      <h1>Hello StackBlitz!</h1>
-      <p>Start editing to see some magic happen :)</p>
+      <Header />
     </div>
   );
 } ;
