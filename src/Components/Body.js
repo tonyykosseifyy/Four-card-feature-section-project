@@ -3,7 +3,7 @@ import '../styles/Body.css' ;
 
 
 const Body = () => {
-  reutrn (
+  return (
     <div className='body'>
     
     </div>
